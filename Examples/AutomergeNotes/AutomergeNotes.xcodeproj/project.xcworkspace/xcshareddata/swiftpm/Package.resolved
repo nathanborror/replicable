@@ -1,0 +1,50 @@
+{
+  "pins" : [
+    {
+      "identity" : "automerge-swift",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/automerge/automerge-swift",
+      "state" : {
+        "branch" : "main",
+        "revision" : "4e57b78ea932c4abdf85002c0d2cde99c59614d7"
+      }
+    },
+    {
+      "identity" : "automerge-swift-backend",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/automerge/automerge-swift-backend",
+      "state" : {
+        "revision" : "3fc30ea417e1d38a3b7b07417c381fa649bcff00",
+        "version" : "0.1.10"
+      }
+    },
+    {
+      "identity" : "jjliso8601dateformatter",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/michaeleisel/JJLISO8601DateFormatter",
+      "state" : {
+        "revision" : "f53a087117f71abb9086f90aedf1f51dc83c88aa",
+        "version" : "0.1.5"
+      }
+    },
+    {
+      "identity" : "zippyjson",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/michaeleisel/ZippyJSON",
+      "state" : {
+        "revision" : "404aaee29c06edc3bf2077344972bc16fa66a1db",
+        "version" : "1.2.6"
+      }
+    },
+    {
+      "identity" : "zippyjsoncfamily",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/michaeleisel/ZippyJSONCFamily",
+      "state" : {
+        "revision" : "c55123b23f0faa898b22bf1b967e72a2df51fdb4",
+        "version" : "1.2.4"
+      }
+    }
+  ],
+  "version" : 2
+}
